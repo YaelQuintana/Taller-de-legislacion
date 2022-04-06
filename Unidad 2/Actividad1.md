@@ -38,12 +38,9 @@
 | Metadocumentaria | Es la rama de la informática jurídica que tiene un mayor significado de complejidad, por cuanto no se agota en la recopilación de textos documentarios, en la realización de documentos jurídicos, o control de asuntos, sino que es aún más profunda en su aplicación hacia la informática | <ul><li>Ayuda en la educación, constituye un modo de afrontar la informática jurídica para su aplicación en la enseñanza de derecho. </li><li> Ayuda en la investigación, la informática jurídica de investigación o informática jurídica analítica tiende a descubrir aquellos instrumentos matemáticos que pueden revestir utilidad para incrementar unos resultados espectaculares, probablemente por tratarse de esfuerzos aislados y sin que hayan sido objeto de mucha difusión. </li></ul>|
 #
 ## Referencias bibliográficas
-
-# Flores Salgado L., “Derecho Informatico”, Grupo Editorial Patria, 1era. Edicion, 2014.
-# Téllez Valdés J., “Derecho Informatico”, McGrawHill, 4ta. Edicion, 2008.
-
-# hpen. (2005, June 17). La informática jurídica metadocumental y la inteligencia artificial. Monografias.com. http://monografias.com/trabajos23/informatica-juridica-metadocumental/informatica-juridica-metadocumental
-
-# Informática Jurídica de Control y Gestión. (n.d.). Scribd. Retrieved March 24, 2022, from https://es.scribd.com/document/356811181/Informatica-Juridica-de-Control-y-Gestion
-# Rizo, E. (2017, 5 mayo). Informática jurídica documental o documentaria. SlideShare. Recuperado 23 de marzo de 2022, de https://es.slideshare.net/EstefaniaRizo1/informtica-jurdica-documental-o-documentaria
-# Informática jurídica. (s. f.). Google Sites. Recuperado 23 de marzo de 2022, de https://sites.google.com/site/derechojuridico7/pagina-principal
+### Flores Salgado L., “Derecho Informatico”, Grupo Editorial Patria, 1era. Edicion, 2014.
+### Téllez Valdés J., “Derecho Informatico”, McGrawHill, 4ta. Edicion, 2008.
+### hpen. (2005, June 17). La informática jurídica metadocumental y la inteligencia artificial. Monografias.com. http://monografias.com/trabajos23/informatica-juridica-metadocumental/informatica-juridica-metadocumental
+### Informática Jurídica de Control y Gestión. (n.d.). Scribd. Retrieved March 24, 2022, from https://es.scribd.com/document/356811181/Informatica-Juridica-de-Control-y-Gestion
+### Rizo, E. (2017, 5 mayo). Informática jurídica documental o documentaria. SlideShare. Recuperado 23 de marzo de 2022, de https://es.slideshare.net/EstefaniaRizo1/informtica-jurdica-documental-o-documentaria
+### Informática jurídica. (s. f.). Google Sites. Recuperado 23 de marzo de 2022, de https://sites.google.com/site/derechojuridico7/pagina-principal
