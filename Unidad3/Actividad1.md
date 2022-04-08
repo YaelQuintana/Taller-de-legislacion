@@ -40,7 +40,7 @@
 | Artículo 19 (PIDCP) | Toda persona tiene derecho a la libertad de expresión; este derecho comprende la libertad de buscar, recibir y difundir informaciones e ideas de toda índole, sin consideración de fronteras, ya sea oralmente, por escrito o en forma impresa o artística, o por cualquier otro procedimiento de su elección. |
 | Artículo 66 (LFRT) | Queda prohibido interceptar, divulgar o aprovechar, los mensajes, noticias o informaciones que no estén destinados al dominio público y que se reciban por medio de los aparatos de radiocomunicación. |
 | Artículo 124 | Las facultades que no están expresamente concedidas por esta Constitución a los funcionarios federales, se entienden reservadas a los Estados o a la Ciudad de México, en los ámbitos de sus respectivas competencias. |
-| Artículo 130 | Las publicaciones de carácter religioso no podrán en reunión pública, en actos del culto o de propaganda religiosa, ni en publicaciones de carácter religioso, oponerse a las leyes del país o a sus instituciones, ni agraviar, de cualquier forma, los símbolos patrios. |
+| Artículo 130 | Las publicaciones de carácter religioso no podrán en reunión pública, en actos del culto o de propaganda religiosa, ni en publicaciones de carácter religioso, oponerse a las leyes del país o a sus instituciones, ni agraviar, de cualquier forma, los símbolos patrios. | 
 
 ## Referencias Bibliograficas
 ### Constitución Política de los Estados Unidos Mexicanos. (s. f.). Instituto de investigaciones jurídicas - UNAM. Recuperado 4 de abril de 2022, de https://www.juridicas.unam.mx/legislacion/ordenamiento/constitucion-politica-de-los-estados-unidos-mexicanos#10679
