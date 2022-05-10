@@ -16,7 +16,6 @@
 
 ### UNIDAD A EVALUAR
 #### Cuarta
-#### Actividad 1 - Unidad 4 
 
 ###  NOMBRE DE LOS INTEGRANTES 
 #### Najera Barajas Jose Maria
