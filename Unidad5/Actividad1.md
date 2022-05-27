@@ -26,7 +26,7 @@
 #### DANIELA ADRIANA SANCHEZ VIZCARRA
 
 ### FECHA DE ENTREGA
-### Martes 10 de mayo del 2022
+### Viernes 27 de mayo del 2022
 #
 | Tipo de contrato | Contenido del contrato | 
 |---|---|
