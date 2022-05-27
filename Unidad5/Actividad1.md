@@ -35,6 +35,7 @@
 | Contrato de mantenimiento de hardware | <li>En el marco de este contrato se incluyen intervenciones de localización de averías, ajuste, reparación, mejora, control de hardware o equipo virtual, según un ámbito de actuación definido.</li> <li>El mantenimiento de los programas informáticos, que es escalable y se centra en la evolución de las aplicaciones y los programas informáticos, suele ser objeto de un contrato independiente.</li> <li>El propósito del servicio</li> <li>Precio y condiciones de pago</li> |
 | Contrato de leasing de hardware | <li>Se basa en la necesidad del empresario de obtener un crédito en el cual la garantía está constituida en la propiedad de dichas herramientas.</li> <li>Tiene elementos de la compra-venta y del arrendamiento y está destinado a los empresarios que requieren un capital de trabajo para invertirlo en la adquisición de maquinarias.</li> |
 ## Bibliografias
+
 # Contrato de compra/venta de hardware. (2015, 26 abril). Contratos Informáticos. Recuperado 26 de mayo de 2022, de http://contratosinformaticos.com/modelos/contrato-de-compraventa-de-hardware/
 # Contratos informáticos. (2019, 4 octubre). efectodigital. Recuperado 26 de mayo de 2022, de https://www.efectodigital.online/single-post/contratos-inform%C3%A1ticos
 # Prego, M. (2020, 10 septiembre). Contrato de mantenimiento: tipos de contrato y cómo hacerlo. appvizer.es. Recuperado 26 de mayo de 2022, de https://www.appvizer.es/revista/organizacion-planificacion/gestion-mantenimiento/contrato-de-mantenimiento
