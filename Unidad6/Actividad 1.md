@@ -48,3 +48,9 @@ Cuando hay una catástrofe informática, algunas empresas antivirus publican uti
 Una regla de oro de la seguridad en internet es no abrir mensajes de desconocidos. Una protección difícil de cumplir porque la mayoría de los virus de última generación se propagan gracias a la libreta de direcciones, y por tanto el remitente suele ser conocido. Mydoom actúa así, pero no ataca sólo al programa Outlook de Microsoft sino a todos, aunque requiere que sea el usuario el que lo ejecute.
 #
 "Un filtro antispam bien configurado permite controlar las comunicaciones hacia el resto del mundo y limita la capacidad de un virus para enviar como correo", explica Blas Simarro, que recuerda que "de todos modos, en seguridad no hay soluciones maestras".
+#
+# Referencias
+
+### Recovery Labs. Virus Mydoom, de https://www.recoverylabs.com/ayuda-y-soporte/data-recovery-white-papers/informes-de-investigacion/virus-mydoom/ 
+### El País (2004, 31 de enero). El virus 'Mydoom' causa pérdidas de 21.000 millones, según los expertos, de https://elpais.com/diario/2004/02/01/sociedad/1075590004_850215.html 
+### Córdoba (2004, 30 de enero). Infectados por el ´Mydoom´, de https://www.diariocordoba.com/sociedad/2004/01/30/infectados-mydoom-38903665.html
